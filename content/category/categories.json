@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "ASUS",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name": "Acer",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name": "Lenovo",
+      "image": ""
+    },
+    {
+      "id": 4,
+      "name": "HP",
+      "image": ""
+    },
+    {
+      "id": 5,
+      "name": "Gaming",
+      "image": ""
+    }
+  ]

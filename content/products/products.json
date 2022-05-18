@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Acer Swif 5",
+      "onSale": false,
+      "tags": ["Acer", "Editing"],
+      "image": "images/AcerS5.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+      "price": 600,
+      "salePrice": null,
+      "ratings": 4.0
+    },
+    {
+      "id": 2,
+      "name": "ASUS Zenbook 14 UX435",
+      "onSale": true,
+      "tags": ["ASUS", "Editing"],
+      "image": "images/AsusZ14.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+      "price": 950,
+      "salePrice": 900,
+      "ratings": 4.5
+    },
+    {
+      "id": 3,
+      "name": "Lenovo LEGION 5 pro",
+      "onSale": true,
+      "tags": ["Lenovo", "Gaming"],
+      "image": "images/LeonvoL5.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+      "price": 1299,
+      "salePrice": 1200,
+      "ratings": 4.5
+    },
+    {
+      "id": 4,
+      "name": "ASUS ROG G14",
+      "onSale": false,
+      "tags": ["ASUS", "Gaming"],
+      "image": "images/ROG14.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+      "price": 2199,
+      "salePrice": null,
+      "ratings": 4
+    },
+    {
+      "id": 5,
+      "name": "HP Pavillion 15",
+      "onSale": true,
+      "tags": ["HP", "Gaming"],
+      "image": "images/HP15.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+      "price": 759,
+      "salePrice": 720,
+      "ratings": 3.5
+    }
+  ]
